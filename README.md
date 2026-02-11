@@ -47,4 +47,13 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - **Google Places API** (ou Google Maps Platform)
 - [Axios / Fetch API]
 
+
+## Integrantes do Projeto
+
+Este projeto foi desenvolvido pelos seguintes colaboradores:
+
+- João Victor Predeus dos Santos Silva
+- Pedro Henrique Ribeiro da Silva
+- Enrico Paludeto
+
 ---
