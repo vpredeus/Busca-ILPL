@@ -14,6 +14,8 @@ O **Busca ILPL** é uma aplicação web desenvolvida para facilitar a busca por 
 
 O objetivo é ajudar famílias a encontrarem lares de idosos com mais agilidade, permitindo filtrar por região e visualizar detalhes importantes como avaliações e contatos.
 
+Esse foi o meu primeiro projeto, mas é interessante para ver a evolução do desenvolvimento em projetos.
+
 ### 🌟 Funcionalidades
 
 - [x] Busca de lares de idosos por cidade ou geolocalização.
